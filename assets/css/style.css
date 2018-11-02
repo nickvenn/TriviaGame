@@ -1,0 +1,21 @@
+.wrapper{
+
+    margin: 0 15%;
+    background-color: yellow;
+    height: 500px;
+}
+
+.main{
+    height: 100%;
+    margin: 0 10%;
+    position: relative;
+    background:orange;
+    text-align: center;
+}
+h2{
+    display: inline;
+}
+
+form{
+    padding: 10px 0px;
+}
